@@ -1,2 +1,2 @@
 # OrdenacaoExterna
-Estudo de métodos de ordenação Externa
+Estudo de métodos de ordenação Externa em c++
